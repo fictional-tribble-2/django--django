@@ -42,3 +42,8 @@ To run Django's test suite:
 * Follow the instructions in the "Unit tests" section of
   ``docs/internals/contributing/writing-code/unit-tests.txt``, published online at
   https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-the-unit-tests
+
+
+.. image:: https://badges.staging.guardrails.io/fictional-tribble/django--django.svg
+   :alt: GuardRails Staging badge
+   :target: https://www.staging.guardrails.io
